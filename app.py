@@ -1,2 +1,5 @@
 print("Hello MOiz")
-print("hello people")
+print("hello people") 
+a=3
+b=4
+print(a+b)
